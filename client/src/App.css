@@ -1,0 +1,10 @@
+.form-container{
+    width: 400px;
+    margin: auto;
+}
+
+#footer{
+    margin-top: 350px;
+    bottom: 0;
+    width: 100%
+}
